@@ -107,7 +107,7 @@ main() {
     print_status "\nNext steps:" "$YELLOW"
     print_status "1. Add your wallet addresses to wallets.txt" "$NC"
     print_status "2. (Optional) Add your proxies to proxy.txt" "$NC"
-    print_status "3. Start the bot with: pm2 start 'npm run start' --name opledBot" "$NC"
+    print_status "3. Start the bot with: masuk folder dulu ke oplet lali jalankan pm2 start 'npm run start' --name opledBot" "$NC"
 }
 
 # Run main function
